@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Anthony Molina](https://tony21019.github.io)
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
+<img src="https://github.com/tony21019/tony21019/blob/main/logo.png" height="430" width="400" align="right"></img>
 
 Welcome to my Github page!
 
