@@ -4,9 +4,8 @@
 
 <p align="center" >
   <samp>
-    Welcome to my Github page! my name is <em>Anthony</em>. I am a Front end web developer.
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Fulltime student.
+    Welcome to my Github page! my name is <em>Anthony</em>. I am a Front end web developer, self-taught person, ReactJs lover. 
+    <br/>Halftime student studying at [UNIR]("https://estudiar.unir.net/co/co-gen-ma-gene-universidad-virtual-ltm/?utm_source=google&utm_medium=bus&utm_content=texto&utm_campaign=googleunireu_cotextotextogenericomarca_bus&bi_campaignid=277594090&bi_adgroupid=99448840213&gclid=CjwKCAiAuOieBhAIEiwAgjCvcs8hTKMx6lpSncr7hLpZSoDFaNLsUku3_CrOa7eNGh5hHS_Y0B711hoCnGYQAvD_BwE"), freelancer.
       <br/>
 Creating games for fun, composing songs,
           <br/>
