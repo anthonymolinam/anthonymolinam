@@ -4,9 +4,11 @@ Welcome to my Github page!
 
 ### Contact
 
-![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=tony21019&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony21019&theme=radical)
+
+![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=tony21019&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
 <!--
 **tony21019/tony21019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
