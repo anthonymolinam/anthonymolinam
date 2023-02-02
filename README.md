@@ -5,9 +5,8 @@
     Welcome to my Github page! my name is <em>Anthony</em>. I am a Front-end web developer, self-taught person, ReactJs lover. 
     <br/>Halftime student. Studying at UNIR (<em>Universidad Internacional de La Rioja</em>). Freelancer.
       <br/>
-Creating games for fun, composing songs,
-          <br/>
-continuously learning, wanting to help the community
+      Continuously learning, wanting to help the community
+      <br/>
   </samp>
   <br/>
   <br/>
