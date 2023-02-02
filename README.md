@@ -16,7 +16,7 @@ Welcome to my Github page!
   <img src="https://github.com/tony21019/tony21019/blob/main/resources/in.png" height="30px" style="margin: 5px;" />
 </a>
 
-### <img src="https://github.com/tony21019/tony21019/blob/main/resources/kermit-freaking.gif" width="50px" /> Github Overview
+### <img src="https://github.com/tony21019/tony21019/blob/main/resources/kermit-freaking.gif" width="70px" /> Github Overview
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony21019&theme=radical)
 
 ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=tony21019&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
