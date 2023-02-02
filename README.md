@@ -1,4 +1,4 @@
-## <img src="https://github.com/tony21019/tony21019/blob/main/resources/welcomeglitch.gif" width=50px /> Hi there!
+## <img src="https://github.com/tony21019/tony21019/blob/main/resources/welcomeglitch.gif" width=70px /> Hi there!
 
 <p align="center" >
   <samp>
@@ -14,7 +14,9 @@
   <br/>
 </p>
 
-### <img src="https://github.com/tony21019/tony21019/blob/main/resources/bongocat.gif" width="50px" /> How to reach me: 
+### <img src="https://github.com/tony21019/tony21019/blob/main/resources/spongebob-squarepants-sunglasses.gif" width="70px" /> I’m currently learning: 
+
+### <img src="https://github.com/tony21019/tony21019/blob/main/resources/bongocat.gif" width="70px" /> How to reach me: 
 
 <a href="https://www.instagram.com/notheretony">
   <img src="https://github.com/tony21019/tony21019/blob/main/resources/instagram.png" height="30px" style="margin: 5px;" />
