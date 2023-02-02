@@ -7,7 +7,7 @@ Welcome to my Github page!
 ### <img src="https://github.com/tony21019/tony21019/blob/main/resources/bongocat.gif" width="50px" /> How to reach me:
 
 <a href="https://www.instagram.com/notheretony">
-  <img src="https://github.com/tony21019/tony21019/blob/main/resources/ig.png" height="35px" style="margin: 5px;" />
+  <img src="https://github.com/tony21019/tony21019/blob/main/resources/ig.png" height="30px" style="margin: 5px;" />
 </a>
 <a href="mailto:admm1225@gmail.com">
   <img src="https://github.com/tony21019/tony21019/blob/main/resources/gmail.png" height="30px" style="margin: 5px;" />
