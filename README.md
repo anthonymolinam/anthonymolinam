@@ -9,6 +9,12 @@ Welcome to my Github page!
 <a href="https://www.instagram.com/notheretony">
   <img src="https://github.com/tony21019/tony21019/blob/main/resources/instagram.png" height="35px" style="margin: 5px;" />
 </a>
+<a href="mailto:admm1225@gmail.com">
+  <img src="https://github.com/tony21019/tony21019/blob/main/resources/gmail.png" height="30px" style="margin: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/anthony-molina-662a32192/">
+  <img src="https://github.com/tony21019/tony21019/blob/main/resources/linkedin.png" height="30px" style="margin: 5px;" />
+</a>
 
 ### Github Overview
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony21019&theme=radical)
