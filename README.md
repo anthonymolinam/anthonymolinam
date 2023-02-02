@@ -15,6 +15,7 @@
 </p>
 
 ### <img src="https://github.com/tony21019/tony21019/blob/main/resources/spongebob-squarepants-sunglasses.gif" width="70px" /> I’m currently learning: 
+- <img src="https://github.com/tony21019/tony21019/blob/main/resources/react.png" height="30px" style="margin: 5px;" /> React
 
 ### <img src="https://github.com/tony21019/tony21019/blob/main/resources/bongocat.gif" width="70px" /> How to reach me: 
 
