@@ -4,6 +4,21 @@
 
 Welcome to my Github page!
 
+<p align="center" >
+  <samp>
+    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    <br/> (<em>ex</em>)Fulltime student.
+      <br/>
+Creating games for fun, composing songs,
+          <br/>
+continuously learning, wanting to help the community
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
+
 ### <img src="https://github.com/tony21019/tony21019/blob/main/resources/bongocat.gif" width="50px" /> How to reach me:
 
 <a href="https://www.instagram.com/notheretony">
