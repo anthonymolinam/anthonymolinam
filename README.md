@@ -1,10 +1,10 @@
-## <img src="https://github.com/tony21019/tony21019/blob/main/resources/welcomeglitch.gif" width=70px /> Hi there!
+## <img src="https://github.com/tony21019/tony21019/blob/main/resources/welcomeglitch.gif" width=70px /> Hi there! 👋
 
 <p align="center" >
   <samp>
     Welcome to my Github page! my name is <em>Anthony</em>. I am a Front-end web developer.
       <br/>
-    Self-taught person, ReactJs lover. Halftime student. Studying at UNIR.
+    Self-taught person, ReactJs lover. Halftime student, studying at UNIR.
     <br/>
     Freelancer. Continuously learning and wanting to help the community.
       <br/>
