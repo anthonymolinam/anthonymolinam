@@ -13,7 +13,7 @@ Welcome to my Github page!
   <img src="https://github.com/tony21019/tony21019/blob/main/resources/gmail.png" height="30px" style="margin: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/anthony-molina-662a32192/">
-  <img src="https://github.com/tony21019/tony21019/blob/main/resources/linkedin.png" height="30px" style="margin: 5px;" />
+  <img src="https://github.com/tony21019/tony21019/blob/main/resources/in.png" height="30px" style="margin: 5px;" />
 </a>
 
 ### Github Overview
