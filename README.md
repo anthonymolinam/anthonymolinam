@@ -2,11 +2,9 @@
 
 <img src="https://github.com/tony21019/tony21019/blob/main/logo.png" height="500" width="500" align="right"></img>
 
-Welcome to my Github page!
-
 <p align="center" >
   <samp>
-    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+    Welcome to my Github page! my name is <em>Anthony</em>. I am a Front end web developer.
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
