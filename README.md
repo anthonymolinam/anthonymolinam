@@ -1,5 +1,6 @@
 ## <img src="https://github.com/tony21019/tony21019/blob/main/resources/welcomeglitch.gif" width=70px /> Hi there! 👋
 
+<br/>
 <p align="center" >
   <samp>
     Welcome to my Github page! my name is <em>Anthony</em>. I am a Front-end web developer.
