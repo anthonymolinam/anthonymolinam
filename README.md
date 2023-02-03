@@ -34,10 +34,10 @@
 
 - <a href="https://www.instagram.com/notheretony"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-### <img src="https://github.com/tony21019/tony21019/blob/main/resources/kermit-freaking.gif" width="70px" /> Github Overview
+### <img src="https://github.com/tony21019/tony21019/blob/main/resources/kermit-freaking.gif" width="70px" " /> Github Overview
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony21019&theme=radical)
 
-![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=tony21019&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=tony21019&count_private=true&show_icons=true&theme=radical&include_all_commits=true) 
 
 <!--
 **tony21019/tony21019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
