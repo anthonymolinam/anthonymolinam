@@ -32,6 +32,8 @@
 
 ### <img src="https://github.com/tony21019/tony21019/blob/main/resources/kermit-freaking.gif" width="70px"  /> Github Overview:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymolinam&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anthonymolinam&theme=radical)
 <!--
 **tony21019/tony21019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
