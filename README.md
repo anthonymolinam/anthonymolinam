@@ -31,7 +31,7 @@
  </br><a href="https://www.linkedin.com/in/anthony-molina-662a32192/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a><a href="https://www.instagram.com/notheretony"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### <img src="https://github.com/tony21019/tony21019/blob/main/resources/kermit-freaking.gif" width="70px"  /> Github Overview:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony21019&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymolinam&theme=radical)
 <!--
 **tony21019/tony21019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
